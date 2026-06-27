@@ -1,2 +1,2 @@
-# connectou-backend
+# connectou
 backend of connecotou
